@@ -1,3 +1,4 @@
+"use strict";
 var Singleton = /** @class */ (function () {
     function Singleton() {
         this._value = 10;
