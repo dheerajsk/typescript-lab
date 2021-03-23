@@ -1,3 +1,4 @@
+"use strict";
 var TypeDemo = /** @class */ (function () {
     function TypeDemo() {
     }
